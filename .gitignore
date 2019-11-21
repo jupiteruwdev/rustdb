@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+data
+db
+*.db
+book/book
+public

@@ -1,0 +1,11 @@
+[package]
+name = "rdb"
+version = "0.2.0"
+authors = ["haruto"]
+edition = "2018"
+description = "A library-only relational database"
+license = "GPL-3.0"
+readme = "README.md"
+
+[dependencies]
+uuid = { version = "0.7", features = ["v4"] }
